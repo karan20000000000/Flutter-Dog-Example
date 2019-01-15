@@ -1,6 +1,7 @@
 # dog_app
 
 A Flutter project based on the example by flutterbyexample.com
+
 This has infinite doggos instead of a fixed number of doggos.
 
 ## Getting Started
